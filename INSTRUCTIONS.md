@@ -223,7 +223,7 @@ echo '<TOKEN>' | docker login --username '<USERNAME>' --password-stdin
    * **Name:** `DOCKERHUB_TOKEN`
      **Value:** `<the access token you just created>`
 4. Save each secret.
-##
+
 ## Verify workflow picks them up
 
 * Open the repo’s **Actions** tab.
